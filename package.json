@@ -49,5 +49,6 @@
   "devDependencies": {
     "gh-pages": "^5.0.0",
     "sass": "^1.62.1"
-  }
+  },
+  "homepage": "https://esotericz.github.io/benMemorialTemp/"
 }
