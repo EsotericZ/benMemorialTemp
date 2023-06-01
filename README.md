@@ -1,2 +1,0 @@
-# benMemorialTemp
-Memorial without memories
